@@ -1,0 +1,119 @@
+.image-rella{
+    width: 100%;
+    height: 100%;
+}
+
+i{
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+h6, .h6 {
+    font-size: 0.75rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif ;
+
+}
+
+h3,.h3 {
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif ;
+}
+
+h4{
+   font-size: 1.25rem;
+    font-family: 'Ubuntu', sans-serif ;
+}
+
+h5,.h5{
+    font-size: 1rem;
+    font-family: 'Ubuntu', sans-serif ;
+
+}
+
+.display-custom-4{
+
+  font-size: 2.8rem;
+  font-weight: 300;
+  line-height: 1.2;
+  font-family: 'Ubuntu', sans-serif ;
+  color: white;
+}
+
+
+
+#header-1 .port-item {
+    width: 30%;
+}
+
+#header-1 .port-item:hover {
+    opacity: 70%;
+    cursor: pointer;
+}
+
+
+
+/*media*/
+
+@media(min-width : 1199px){
+    .port-item{
+        padding: 3em !important;
+    }
+}
+
+
+/*colors*/
+
+.btn-custom-6 {
+  color: #fff;
+  background-color: #9d65c9;
+  border-color: #9d65c9;
+}
+
+.btn-custom-6:hover {
+  color: #9d65c9;
+  background-color: #fff;
+  border-color:violet;
+}
+
+.btn-outline-custom-6{
+  color: #9d65c9;;
+  border-color: #9d65c9;
+}
+
+.btn-outline-custom-6:hover {
+  color: #fff;
+  background-color: #9d65c9;
+  border-color: #9d65c9;
+}
+
+
+
+
+.bg-custom-1 {
+  background-color: #0f3057;
+
+}
+.bg-custom-2 {
+  background-color: #1b262c;
+  color: #f6f4e6;
+
+}
+.bg-custom-3 {
+  background-color: #0278ae;
+}
+.bg-custom-4 {
+  background-color: #81b214;
+}
+
+.bg-custom-5 {
+  background-color: #f56a79;
+}
+
+.bg-custom-6 {
+  background-color: #9d65c9;
+}
