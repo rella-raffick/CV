@@ -12,6 +12,12 @@ h6, .h6 {
     font-size: 0.75rem;
     font-family: 'Ubuntu', sans-serif;
 }
+.h6-addon{
+    font-size: 0.90rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
 
 h2 {
     font-size: 2rem;
@@ -116,4 +122,9 @@ h5,.h5{
 
 .bg-custom-6 {
   background-color: #9d65c9;
+}
+
+
+.div-space{
+  padding: vertical horizontal;
 }
